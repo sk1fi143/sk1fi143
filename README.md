@@ -1,6 +1,6 @@
-💻 Frontend Developer ( React.js + TypeScript ) 
-📍 Локация: Россия
-📌 Опыт работы: 2 года
+- 💻 Frontend Developer ( React.js + TypeScript ) 
+- 📍 Локация: Россия
+- 📌 Опыт работы: 2 года
 
 👨‍💼 О себе:
 
