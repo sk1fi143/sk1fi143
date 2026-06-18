@@ -1,4 +1,4 @@
-- 💻 Frontend Developer ( React.js + TypeScript ) 
+- 💻 Frontend Developer ( React + TypeScript ) 
 - 📍 Location: Russia
 - 📌 Work experience: 4 years
 
